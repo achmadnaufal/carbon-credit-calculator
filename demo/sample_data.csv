@@ -1,0 +1,21 @@
+tree_id,species,dbh_cm,height_m,age_years,plot_id,date_measured
+T001,Tectona grandis,18.5,14.2,8,PLT-A1,2024-06-12
+T002,Tectona grandis,22.8,16.0,10,PLT-A1,2024-06-12
+T003,Tectona grandis,28.4,18.6,12,PLT-A1,2024-06-12
+T004,Swietenia macrophylla,15.2,11.8,7,PLT-A2,2024-06-13
+T005,Swietenia macrophylla,24.1,16.9,11,PLT-A2,2024-06-13
+T006,Swietenia macrophylla,33.7,20.3,15,PLT-A2,2024-06-13
+T007,Acacia mangium,12.4,9.8,5,PLT-B1,2024-06-14
+T008,Acacia mangium,19.6,14.1,7,PLT-B1,2024-06-14
+T009,Acacia mangium,27.3,17.8,9,PLT-B1,2024-06-14
+T010,Gliricidia sepium,8.7,6.4,4,PLT-B2,2024-06-14
+T011,Gliricidia sepium,13.9,9.1,6,PLT-B2,2024-06-14
+T012,Eucalyptus urophylla,16.8,18.5,5,PLT-C1,2024-06-15
+T013,Eucalyptus urophylla,25.4,23.2,8,PLT-C1,2024-06-15
+T014,Eucalyptus urophylla,41.6,25.0,12,PLT-C1,2024-06-15
+T015,Paraserianthes falcataria,14.5,12.7,4,PLT-C2,2024-06-15
+T016,Paraserianthes falcataria,26.8,19.4,7,PLT-C2,2024-06-15
+T017,Paraserianthes falcataria,38.2,23.8,10,PLT-C2,2024-06-15
+T018,Tectona grandis,5.8,4.3,3,PLT-A3,2024-06-16
+T019,Swietenia macrophylla,45.1,22.6,20,PLT-A4,2024-06-16
+T020,Acacia mangium,55.7,24.1,14,PLT-B3,2024-06-16
